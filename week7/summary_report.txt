@@ -1,0 +1,10 @@
+SERVER LOG SUMMARY
+========================================
+Total log entries: 68
+
+Security Incident Breakdown:
+Forbidden: 23
+SQL Injection: 20
+Brute Force: 18
+
+Total Errors: 5
